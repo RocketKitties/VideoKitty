@@ -32,8 +32,7 @@
 
 	<rect width="480" height="480" x="16" y="16" rx="128" ry="128" fill="hsl(-10, 100%, 66%)" stroke="hsl(-10, 100%, 66%)" stroke-width="16" />
 
-	<g transform="translate(256, 256) scale(0.9) translate(0 -20) translate(0, 20) translate(-256, -256)">
-
+	<g id="logo" transform="translate(256, 256) scale(0.9) translate(0 -20) translate(0, 20) translate(-256, -256)">
 		<g id="film" transform="translate(264 256) scale(1.1 0.9) rotate(90) translate(-256 -256)">
 			<g transform="scale(14.25)">
 				<path d="M29 11h6v14h-6zM1 11h6v14H1zm8 0h18v14H9z" fill="#BBDDF5" />

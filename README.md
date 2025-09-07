@@ -42,7 +42,7 @@ Please follow the instructions in [vidieokitty.org/#installation](https://videok
 
 ## Instructions
 
-See the [PhotoKitty User Guide](https://videokitty.org/#help) for instructions on how to use the platform.
+See the [VideoKitty User Guide](https://videokitty.org/#help) for instructions on how to use the platform.
 
 ## License
 
